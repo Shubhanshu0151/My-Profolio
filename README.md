@@ -1,5 +1,5 @@
 # My-Profolio
-My first web page using HTML, CSS, JS .
+My Profolio Web Page Using HTML, CSS & JavaScript.
 
 Personal Portfolio website
 
